@@ -41,13 +41,7 @@ pip install numpy pandas matplotlib seaborn statsmodels scikit-learn
 ```
 
 ## Usage
-Clone the repository and run the script:
-
-```bash
-git clone https://github.com/your-username/cyber-attack-detection.git
-cd cyber-attack-detection
-python main.py
-```
+Clone the repository and run the script
 
 ## Results & Findings
 - The best model achieved high accuracy in detecting and classifying different types of cyber attacks.
